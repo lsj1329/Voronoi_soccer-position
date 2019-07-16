@@ -1,7 +1,7 @@
 ## < 보로노이 >
 ![Voronoi](./Image/Voronoi.JPG)
-
 <br>
+
 ### 보로노이 다이어그램을 이용한 축구 포지션 생성
 
 <br><br>
@@ -19,8 +19,8 @@
 
 └ 파이썬 3.* 버전의 경우 `pip3 install image` 명령 입력
 
-
 <br>
+
 **- 설명**
 
 (clear)특정 좌표를 직접 지정
