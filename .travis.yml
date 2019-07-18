@@ -1,5 +1,7 @@
 language: python
 python:
   - "3.6"
-  
-script: voronoi_test.py
+install:
+  - pip install image
+script: 
+  - python voronoi_test.py
